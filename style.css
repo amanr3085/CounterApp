@@ -1,0 +1,27 @@
+body
+{
+    margin-top: 20%;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size:x-large;
+}
+button
+{
+    padding: 10px 15px;
+    font-size:15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+    color: aliceblue;
+}
+#btn-add
+{
+    background-color: brown;
+}
+#btn-sub
+{
+    background-color: rgb(42, 168, 4);
+}
+#btn-reset
+{
+    background-color: dimgray;
+}
